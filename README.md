@@ -10,7 +10,7 @@
 - Python (tested on Python2.7 and Python3.6)
 
 ## Run
-```{r, engine='bash', python}
+```shell
 # Run one file
 python align.py example/test.wav example/test.txt example/test.TextGrid
 

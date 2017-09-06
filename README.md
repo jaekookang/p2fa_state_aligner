@@ -10,10 +10,10 @@
 - Python (tested on Python2.7 and Python3.6)
 
 ## Run
-``{r, engine='bash', python}
+```{r, engine='bash', python}
 # Run one file
 python align.py example/test.wav example/test.txt example/test.TextGrid
 
 # Run multiple files
 . ./test_libri.sh
-``
+```
